@@ -11,7 +11,7 @@ cd project
 
 \venv\Scripts>pip install requirements.txt
 
-\venv\Scripts>python ../../src/requirements.txt
+\venv\Scripts>python ../../src/index.py
 
 ##### or...
 
@@ -25,7 +25,7 @@ venv\Scripts>activate
 
 \venv\Scripts>pip install requirements.txt
 
-\venv\Scripts>python ../../src/requirements.txt
+\venv\Scripts>python ../../src/index.py
 
 
 
